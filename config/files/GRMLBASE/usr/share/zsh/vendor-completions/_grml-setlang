@@ -1,3 +1,0 @@
-#compdef grml-setlang
-
-compadd at ch de dvorak en es fr hu it jp uk us

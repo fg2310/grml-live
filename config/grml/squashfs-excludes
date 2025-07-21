@@ -1,5 +1,0 @@
-dev/*
-run/*
-var/run/*
-var/lock/*
-var/lib/dkms/*

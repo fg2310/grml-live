@@ -1,6 +1,0 @@
-# Environment variables. You can override these in your own class files.
-
-# Allow installation of packages from unsigned repositories:
-# FAI_ALLOW_UNSIGNED=1
-
-TIMEZONE=Etc/UTC

@@ -1,2 +1,0 @@
-# regenerate /etc/fstab for new/removed devices:
-ACTION=="add|change|remove", SUBSYSTEM=="block", RUN+="/etc/udev/scripts/grml-udev-rebuildfstab"
